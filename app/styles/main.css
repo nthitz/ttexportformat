@@ -1,0 +1,10 @@
+textarea {
+    width: 400px;
+    height:200px;
+}
+.output {
+  position: fixed;
+  top: 2em;
+  right: 10px;
+  display: none;
+}
